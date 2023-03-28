@@ -1,6 +1,5 @@
 # PROJECT NAME
 
-
 ### Introduction  
 This document is a project proposal for [PROJECT NAME], which is being developed by [TEAM NAME]. The purpose of this project is to [PROJECT GOALS]. In this proposal, we will provide an overview of the project, including its objectives, scope, timeline, and budget.
 ##
@@ -11,10 +10,10 @@ The objectives of this project are:
 :round_pushpin: [OBJECTIVE 3]  
 ##
 ### Scope  
-The scope of this project includes:
-* [SCOPE 1]
-* [SCOPE 2]
-* [SCOPE 3]
+The scope of this project includes:  
+:pushpin: [SCOPE 1]  
+:pushpin: [SCOPE 2]  
+:pushpin: [SCOPE 3]  
 ##
 ### Timeline
 The following timeline outlines the major milestones of the project:
