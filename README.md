@@ -1,5 +1,4 @@
-### $${\color{red}Embrace \space A \space Tasty, \space Well-Balanced \space Eating \space Lifestyle \space \color{lightblue}(EATWELL): \space \color{lightgreen}A \space Nutritional \space Guide \space Software}$$
-##
+# Embrace A Tasty, Well-Balanced Eating Lifestyle (EATWELL) : A Nutritional Guide Software
 ### :page_facing_up: Introduction 
 This is a project proposal for CS121 - Advanced Computer Programming, which is being developed by [TEAM NAME] from CS-1202. The purpose of this project is to create a personalized nutrition and meal planning software that provides users with customized nutrition plans and meal recommendations based on their individual health goals and dietary preferences. The goal of the software is to help users make healthier food choices and improve their overall health and well-being. In this proposal, we will provide an overview of the project, including its objectives, scope, and keyfeatures.
 ##
@@ -33,3 +32,10 @@ The following individuals will be working on this project:
 ### Conclusion
 The following individuals will be working on this project:
 Thank you for considering our project proposal. We believe that [PROJECT NAME] has the potential to [PROJECT BENEFITS]. We look forward to the opportunity to work with you on this project.
+## It is a pleasure to have the opportunity to share our project ideas with you. We are hopeful that our proposal will meet your expectations, and we thank you for considering it.
+
+<p align="center">
+  <a href="#">It is a pleasure to have the opportunity to share our project ideas with you. We are hopeful that our proposal will meet your expectations, and we thank you for considering it.</a>
+  <br><br>
+  <img src="[[[http://s.4cdn.org/image/title/105.gif](https://www.google.com/search?q=eatwell+text&tbm=isch&ved=2ahUKEwitz-uo1_79AhX7zXMBHSDsD2wQ2-cCegQIABAA&oq=eatwell+text&gs_lcp=CgNpbWcQAzoFCAAQgAQ6BggAEAgQHlCsClj1EGDUE2gAcAB4AIABlQKIAeQGkgEFMC40LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=J-UiZO2fEvubz7sPoNi_4AY&bih=754&biw=1536#imgrc=IIXIUMrfOsAZyM)](https://www.google.com/url?sa=i&url=https%3A%2F%2Featwell.ph%2Fabout%2F&psig=AOvVaw2k9HaKA83ZPzEJvQJDTTwP&ust=1680094897081000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLjU-LHX_v0CFQAAAAAdAAAAABAD)](https://www.google.com/search?q=eatwell+text&tbm=isch&ved=2ahUKEwitz-uo1_79AhX7zXMBHSDsD2wQ2-cCegQIABAA&oq=eatwell+text&gs_lcp=CgNpbWcQAzoFCAAQgAQ6BggAEAgQHlCsClj1EGDUE2gAcAB4AIABlQKIAeQGkgEFMC40LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=J-UiZO2fEvubz7sPoNi_4AY&bih=754&biw=1536#imgrc=O-dM3LaoOE343M)">
+</p>
