@@ -4,11 +4,11 @@ This is a project proposal for CS121 - Advanced Computer Programming, which is b
 ##
 ### :link: Objectives
 The objectives of this project are:  
-:round_pushpin: To suggest recipes based on dietary preferences and provide nutritional information for each recipe.  
-:round_pushpin: To track calorie intake and help users set daily calorie goals based on weight loss or weight management goals.  
-:round_pushpin: To assist users in planning their meals for the week and creating a grocery list based on chosen recipes.  
-:round_pushpin: To track water intake and remind users to drink water throughout the day.  
-:round_pushpin: To provide users with a food diary to track meals and progress towards health goals, including setting reminders for meal logging and progress monitoring.
+:one: To suggest recipes based on dietary preferences and provide nutritional information for each recipe.  
+:two: To track calorie intake and help users set daily calorie goals based on weight loss or weight management goals.  
+:three: To assist users in planning their meals for the week and creating a grocery list based on chosen recipes.  
+:four: To track water intake and remind users to drink water throughout the day.  
+:five: To provide users with a food diary to track meals and progress towards health goals, including setting reminders for meal logging and progress monitoring.
 ##
 ### :mag: Scope  
 The scope of this project includes:  
