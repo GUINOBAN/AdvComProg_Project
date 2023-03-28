@@ -26,7 +26,7 @@ The following are the key features of the project:
 ##
 ### :busts_in_silhouette: Team
 The following individuals will be working on this project:  
-:fu: BARICAN, John Andrei A.  
+:chicken: BARICAN, John Andrei A.  
 :bear: GENIL, Gemma Rose L.  
 :pig: GUINOBAN, Glenn M.  
 :shipit: LALONGISIP, Darlyne Grace M.
