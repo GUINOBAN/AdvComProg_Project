@@ -4,7 +4,7 @@ This is a project proposal for CS121 - Advanced Computer Programming, which is b
 ##
 ### :link: Objectives
 The objectives of this project are:  
-:one: To suggest recipes based on dietary preferences and provide nutritional information for each recipe.  
+:one:  To suggest recipes based on dietary preferences and provide nutritional information for each recipe.  
 :two: To track calorie intake and help users set daily calorie goals based on weight loss or weight management goals.  
 :three: To assist users in planning their meals for the week and creating a grocery list based on chosen recipes.  
 :four: To track water intake and remind users to drink water throughout the day.  
