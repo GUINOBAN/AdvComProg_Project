@@ -21,8 +21,8 @@ The following are the key features of the project:
 :bulb: recipe suggestion and nutritional information  
 :chart_with_upwards_trend: calorie tracking and goal setting  
 :memo: meal planning and grocery list creation  
-:droplet: water intake tracking
-* food diary and progress tracking
+:droplet: water intake tracking  
+:book: food diary and progress tracking
 ##
 ### :family: Team
 The following individuals will be working on this project:
