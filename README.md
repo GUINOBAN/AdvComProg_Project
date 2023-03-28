@@ -4,11 +4,11 @@
 ### Introduction  
 This document is a project proposal for [PROJECT NAME], which is being developed by [TEAM NAME]. The purpose of this project is to [PROJECT GOALS]. In this proposal, we will provide an overview of the project, including its objectives, scope, timeline, and budget.
 ##
-### Objectives
+### :link: Objectives
 The objectives of this project are:  
-:small_blue_diamond: [OBJECTIVE 1]  
-:small_blue_diamond: [OBJECTIVE 2]  
-:small_blue_diamond: [OBJECTIVE 3]  
+:round_pushpin: [OBJECTIVE 1]  
+:round_pushpin: [OBJECTIVE 2]  
+:round_pushpin: [OBJECTIVE 3]  
 ##
 ### Scope  
 The scope of this project includes:
