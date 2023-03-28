@@ -29,7 +29,7 @@ The following individuals will be working on this project:
 :pig: GUINOBAN, Glenn M.  
 :shipit: LALONGISIP, Darlyne Grace M.
 ##
-### :grey_exclamation: Conclusion
+### :speech_balloon: Conclusion
 We believe that PROJECT “EATWELL” will be a great help to improve nutritional intake, enhanced weight management, simplified meal planning, increased awareness of dietary habits,  greater adherence to dietary goals, improved health outcomes and enhanced user experience. 
 ##
 <p align="center">
