@@ -21,7 +21,7 @@ The following timeline outlines the major milestones of the project:
 * [MILESTONE 2] - [DATE]
 * [MILESTONE 3] - [DATE]
 ##
-### Team
+### :family: Team
 The following individuals will be working on this project:
 * [TEAM MEMBER 1] - [ROLE]
 * [TEAM MEMBER 2] - [ROLE]
