@@ -24,12 +24,12 @@ The following are the key features of the project:
 :droplet: water intake tracking  
 :book: food diary and progress tracking
 ##
-### :family: Team
+### :busts_in_silhouette: Team
 The following individuals will be working on this project:
-* BARICAN - [ROLE]
-* GENIL - [ROLE]
-* GUINOBAN - [ROLE]
-* LALONGISIP - [ROLE]
+* Barican, John Andrei A.
+* Genil, Gemma Rose L.
+* Guinoban, Glenn M.
+* Lalongisip, Darlyne Grace M.
 ##
 ### Conclusion
 The following individuals will be working on this project:
