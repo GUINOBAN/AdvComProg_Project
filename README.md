@@ -18,10 +18,10 @@ The scope of this project includes:
 ##
 ### :key: Key Features
 The following are the key features of the project:  
-:bulb: recipe suggestion and nutritional information
-* calorie tracking and goal setting
-* meal planning and grocery list creation  
-:sweat_drops: water intake tracking
+:bulb: recipe suggestion and nutritional information  
+:chart_with_upwards_trend: calorie tracking and goal setting  
+:memo: meal planning and grocery list creation  
+:droplet: water intake tracking
 * food diary and progress tracking
 ##
 ### :family: Team
