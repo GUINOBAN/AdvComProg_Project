@@ -26,10 +26,10 @@ The following are the key features of the project:
 ##
 ### :busts_in_silhouette: Team
 The following individuals will be working on this project:
-* Barican, John Andrei A.
-* Genil, Gemma Rose L.
-* Guinoban, Glenn M.
-* Lalongisip, Darlyne Grace M.
+* BARICAN, John Andrei A.
+* GENIL, Gemma Rose L.
+* GUINOBAN, Glenn M.
+* LALONGISIP, Darlyne Grace M.
 ##
 ### Conclusion
 The following individuals will be working on this project:
