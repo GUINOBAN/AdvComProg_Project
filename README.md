@@ -32,8 +32,8 @@ The following individuals will be working on this project:
 ### :speech_balloon: Conclusion
 We believe that PROJECT “EATWELL” will be a great help to improve nutritional intake, enhanced weight management, simplified meal planning, increased awareness of dietary habits,  greater adherence to dietary goals, improved health outcomes and enhanced user experience. 
 ##
-<p align="center" style="font-size: 18px; font-weight: bold;">
+<h3 align="center" style="font-size: 18px; font-weight: bold;">
 It is a pleasure to have the opportunity to share our project ideas with you. We are hopeful that our proposal will meet your expectations, and we thank you for considering it.
   <br><br>
 <img src="EatWell_Branding-24.png" width="175" height="75">
-</p>
+</h3>
