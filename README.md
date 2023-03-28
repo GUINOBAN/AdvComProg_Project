@@ -1,7 +1,8 @@
-# PROJECT NAME
-
+# EATWELL
+Embrace A Tasty, Well-Balanced Eating Lifestyle: This could suggest that a healthy diet doesn't have to be boring or restrictive, and can instead be enjoyable and sustainable.
+##
 ### Introduction  
-This document is a project proposal for [PROJECT NAME], which is being developed by [TEAM NAME]. The purpose of this project is to [PROJECT GOALS]. In this proposal, we will provide an overview of the project, including its objectives, scope, timeline, and budget.
+This is a project proposal for S121 - Advanced Computer Programming, which is being developed by [TEAM NAME] from CS-1202. The purpose of this project is to create a personalized nutrition and meal planning software that provides users with customized nutrition plans and meal recommendations based on their individual health goals and dietary preferences. The goal of the software is to help users make healthier food choices and improve their overall health and well-being. In this proposal, we will provide an overview of the project, including its objectives, scope, and keyfeatures.
 ##
 ### :link: Objectives
 The objectives of this project are:  
@@ -15,11 +16,13 @@ The scope of this project includes:
 :pushpin: [SCOPE 2]  
 :pushpin: [SCOPE 3]  
 ##
-### Timeline
-The following timeline outlines the major milestones of the project:
-* [MILESTONE 1] - [DATE]
-* [MILESTONE 2] - [DATE]
-* [MILESTONE 3] - [DATE]
+### Keyfeatures
+The following are the keyfeatures of the project:
+* recipe suggestion and nutritional information
+* calorie tracking and goal setting
+* meal planning and grocery list creation
+* water intake tracking
+* food diary and progress tracking
 ##
 ### :family: Team
 The following individuals will be working on this project:
