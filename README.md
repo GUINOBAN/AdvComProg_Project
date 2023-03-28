@@ -1,4 +1,5 @@
-# Embrace A Tasty, Well-balanced Eating Lifestyle (EATWELL) : A Nutritional Guide Software
+### $${\color{red}Embrace \space A \space Tasty, \space Well-Balanced \space Eating \space Lifestyle \space \color{lightblue}(EATWELL): \space \color{lightgreen}A \space Nutritional \space Guide \space Software}$$
+##
 ### :page_facing_up: Introduction 
 This is a project proposal for CS121 - Advanced Computer Programming, which is being developed by [TEAM NAME] from CS-1202. The purpose of this project is to create a personalized nutrition and meal planning software that provides users with customized nutrition plans and meal recommendations based on their individual health goals and dietary preferences. The goal of the software is to help users make healthier food choices and improve their overall health and well-being. In this proposal, we will provide an overview of the project, including its objectives, scope, and keyfeatures.
 ##
