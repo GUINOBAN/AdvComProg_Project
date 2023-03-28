@@ -25,11 +25,11 @@ The following are the key features of the project:
 :book: food diary and progress tracking
 ##
 ### :busts_in_silhouette: Team
-The following individuals will be working on this project:
-* BARICAN, John Andrei A.
-* GENIL, Gemma Rose L.
-* GUINOBAN, Glenn M.
-* LALONGISIP, Darlyne Grace M.
+The following individuals will be working on this project:  
+:fu: BARICAN, John Andrei A.  
+:bear: GENIL, Gemma Rose L.  
+:pig: GUINOBAN, Glenn M.  
+:shipit: LALONGISIP, Darlyne Grace M.
 ##
 ### Conclusion
 The following individuals will be working on this project:
