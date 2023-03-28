@@ -29,12 +29,10 @@ The following individuals will be working on this project:
 :pig: GUINOBAN, Glenn M.  
 :shipit: LALONGISIP, Darlyne Grace M.
 ##
-### Conclusion
-The following individuals will be working on this project:
-Thank you for considering our project proposal. We believe that [PROJECT NAME] has the potential to [PROJECT BENEFITS]. We look forward to the opportunity to work with you on this project.
+### :grey_exclamation: Conclusion
+We believe that PROJECT “EATWELL” will be a great help to improve nutritional intake, enhanced weight management, simplified meal planning, increased awareness of dietary habits,  greater adherence to dietary goals, improved health outcomes and enhanced user experience. 
 ##
 <p align="center">
-  <a href="#">It is a pleasure to have the opportunity to share our project ideas with you. We are hopeful that our proposal will meet your expectations, and we thank you for considering it.</a>
+  <a href="#"><font size="7">It is a pleasure to have the opportunity to share our project ideas with you. We are hopeful that our proposal will meet your expectations, and we thank you for considering it.</font></a>
   <br><br>
-  <img src="[[[http://s.4cdn.org/image/title/105.gif](https://www.google.com/search?q=eatwell+text&tbm=isch&ved=2ahUKEwitz-uo1_79AhX7zXMBHSDsD2wQ2-cCegQIABAA&oq=eatwell+text&gs_lcp=CgNpbWcQAzoFCAAQgAQ6BggAEAgQHlCsClj1EGDUE2gAcAB4AIABlQKIAeQGkgEFMC40LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=J-UiZO2fEvubz7sPoNi_4AY&bih=754&biw=1536#imgrc=IIXIUMrfOsAZyM)](https://www.google.com/url?sa=i&url=https%3A%2F%2Featwell.ph%2Fabout%2F&psig=AOvVaw2k9HaKA83ZPzEJvQJDTTwP&ust=1680094897081000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLjU-LHX_v0CFQAAAAAdAAAAABAD)](https://www.google.com/search?q=eatwell+text&tbm=isch&ved=2ahUKEwitz-uo1_79AhX7zXMBHSDsD2wQ2-cCegQIABAA&oq=eatwell+text&gs_lcp=CgNpbWcQAzoFCAAQgAQ6BggAEAgQHlCsClj1EGDUE2gAcAB4AIABlQKIAeQGkgEFMC40LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=J-UiZO2fEvubz7sPoNi_4AY&bih=754&biw=1536#imgrc=O-dM3LaoOE343M)">
 </p>
