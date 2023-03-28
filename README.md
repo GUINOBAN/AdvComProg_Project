@@ -10,7 +10,7 @@ The objectives of this project are:
 :round_pushpin: [OBJECTIVE 2]  
 :round_pushpin: [OBJECTIVE 3]  
 ##
-### Scope  
+### :mag_right: Scope  
 The scope of this project includes:  
 :pushpin: [SCOPE 1]  
 :pushpin: [SCOPE 2]  
