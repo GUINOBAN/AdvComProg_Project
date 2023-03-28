@@ -1,6 +1,5 @@
-# EATWELL
-Embrace A Tasty, Well-Balanced Eating Lifestyle: This could suggest that a healthy diet doesn't have to be boring or restrictive, and can instead be enjoyable and sustainable.
 ##
+# Embrace A Tasty, Well-Balanced Eating Lifestyle (EATWELL) : A Nutritional Guide Software
 ### Introduction  
 This is a project proposal for CS121 - Advanced Computer Programming, which is being developed by [TEAM NAME] from CS-1202. The purpose of this project is to create a personalized nutrition and meal planning software that provides users with customized nutrition plans and meal recommendations based on their individual health goals and dietary preferences. The goal of the software is to help users make healthier food choices and improve their overall health and well-being. In this proposal, we will provide an overview of the project, including its objectives, scope, and keyfeatures.
 ##
