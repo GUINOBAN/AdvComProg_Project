@@ -1,11 +1,33 @@
 # PROJECT NAME
 
-## Introduction
-This document is a project proposal for [PROJECT NAME], which is being developed by [TEAM NAME]. The purpose of this project is to [PROJECT GOALS]. In this proposal, we will provide an overview of the project, including its objectives, scope, timeline, and budget.
 
-## Objectives
+### Introduction
+This document is a project proposal for [PROJECT NAME], which is being developed by [TEAM NAME]. The purpose of this project is to [PROJECT GOALS]. In this proposal, we will provide an overview of the project, including its objectives, scope, timeline, and budget.
+##
+### Objectives
 The objectives of this project are:
-⋅⋅* Unordered sub-list. 
-
-## Introduction
-This document is a project proposal for [PROJECT NAME], which is being developed by [TEAM NAME]. The purpose of this project is to [PROJECT GOALS]. In this proposal, we will provide an overview of the project, including its objectives, scope, timeline, and budget.
+* [OBJECTIVE 1]
+* [OBJECTIVE 2]
+* [OBJECTIVE 3]
+##
+### Scope
+The scope of this project includes:
+* [SCOPE 1]
+* [SCOPE 2]
+* [SCOPE 3]
+##
+### Timeline
+The following timeline outlines the major milestones of the project:
+* [MILESTONE 1] - [DATE]
+* [MILESTONE 2] - [DATE]
+* [MILESTONE 3] - [DATE]
+##
+### Team
+The following individuals will be working on this project:
+* [TEAM MEMBER 1] - [ROLE]
+* [TEAM MEMBER 2] - [ROLE]
+* [TEAM MEMBER 3] - [ROLE]
+##
+### Conclusion
+The following individuals will be working on this project:
+Thank you for considering our project proposal. We believe that [PROJECT NAME] has the potential to [PROJECT BENEFITS]. We look forward to the opportunity to work with you on this project.
