@@ -10,7 +10,7 @@ The objectives of this project are:
 :round_pushpin: To track water intake and remind users to drink water throughout the day.  
 :round_pushpin: To provide users with a food diary to track meals and progress towards health goals, including setting reminders for meal logging and progress monitoring.
 ##
-### Scope  
+### :telescope: Scope  
 The scope of this project includes:  
 :pushpin: [SCOPE 1]  
 :pushpin: [SCOPE 2]  
