@@ -32,8 +32,7 @@ The following individuals will be working on this project:
 ### Conclusion
 The following individuals will be working on this project:
 Thank you for considering our project proposal. We believe that [PROJECT NAME] has the potential to [PROJECT BENEFITS]. We look forward to the opportunity to work with you on this project.
-## It is a pleasure to have the opportunity to share our project ideas with you. We are hopeful that our proposal will meet your expectations, and we thank you for considering it.
-
+##
 <p align="center">
   <a href="#">It is a pleasure to have the opportunity to share our project ideas with you. We are hopeful that our proposal will meet your expectations, and we thank you for considering it.</a>
   <br><br>
