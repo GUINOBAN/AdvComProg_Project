@@ -7,7 +7,7 @@
   This is a project proposal for CS121 - Advanced Computer Programming, which is being developed by THE AVENGERS from CS-1202. The purpose of this project is to create a personalized nutrition and meal planning software that provides users with customized nutrition plans and meal recommendations based on their individual health goals and dietary preferences. The goal of the software is to help users make healthier food choices and improve their overall health and well-being. In this proposal, we will provide an overview of the project, including its objectives, scope, and keyfeatures.
 ##
 ### 🔗 **Objectives**
-<h4>The objectives of this project are:</h4>
+<h3>The objectives of this project are:</h3>
 
 🔴 To suggest recipes based on dietary preferences and provide nutritional information for each recipe.  
 🟡 To track calorie intake and help users set daily calorie goals based on weight loss or weight management goals.  
@@ -24,24 +24,24 @@
 ### 🔑 **Key Features**
 <h4>The following are the key features of the project:<h4>
 <details>
-  <summary><h4> 💡 recipe suggestion and nutritional information </h4></summary>
-        ◻ The software can suggest recipes based on the user's dietary preferences and provide nutritional information for each recipe.
+  <summary><h4> 💡 Recipe Suggestion and Nutritional Information </h4></summary>
+       ◻  The software can suggest recipes based on the user's dietary preferences and provide nutritional information for each recipe.
 </details>
 <details>
-  <summary><h4>📈 calorie tracking and goal setting </h4></summary>
-  ◻ The software can track the user's calorie intake and help them set daily calorie goals based on their weight loss or weight management goals.
+  <summary><h4>📈 Calorie Tracking and Goal Setting </h4></summary>
+       ◻  The software can track the user's calorie intake and help them set daily calorie goals based on their weight loss or weight management goals.
 </details>
 <details>
-  <summary><h4>📝 meal planning and grocery list creation </h4></summary>
-  ◻ The software can help users plan their meals for the week and create a grocery list based on the recipes they choose.
+  <summary><h4>📝 Meal Planning and Grocery List Creation </h4></summary>
+       ◻  The software can help users plan their meals for the week and create a grocery list based on the recipes they choose.
 </details>
 <details>
-  <summary><h4> 💧 water intake tracking </h4></summary>
-  ◻ The software can track the user's water intake and remind them to drink water throughout the day.
+  <summary><h4> 💧 Water Intake Tracking </h4></summary>
+       ◻  The software can track the user's water intake and remind them to drink water throughout the day.
 </details>
 <details>
-  <summary><h4>📖 food diary and progress tracking </h4></summary>
-  ◻ The software can provide users with a food diary to track their meals and progress towards their health goals. Users can also set reminders to log their meals and monitor their progress.
+  <summary><h4>📖 Food Diary and Progress Tracking </h4></summary>
+       ◻  The software can provide users with a food diary to track their meals and progress towards their health goals. Users can also set reminders to log their meals and monitor their progress.
 </details>
 
 ##
