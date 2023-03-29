@@ -4,7 +4,7 @@
   <i>A Nutritional Guide Software </i></h1>
 
 ### 📄 **Introduction** 
-   This is a project proposal for **CS121 - Advanced Computer Programming**, which is being developed by **THE AVENGERS** from **CS-1202**. The purpose of this project is to create a personalized nutrition and meal planning software that provides users with customized nutrition plans and meal recommendations based on their individual health goals and dietary preferences. The goal of the software is to help users make healthier food choices and improve their overall health and well-being. In this proposal, we will provide an overview of the project, including its objectives, scope, and key features.
+      This is a project proposal for **CS121 - Advanced Computer Programming**, which is being developed by **THE AVENGERS** from **CS-1202**. The purpose of this project is to create a personalized nutrition and meal planning software that provides users with customized nutrition plans and meal recommendations based on their individual health goals and dietary preferences. The goal of the software is to help users make healthier food choices and improve their overall health and well-being. In this proposal, we will provide an overview of the project, including its objectives, scope, and key features.
 ##
 ### 🔗 **Objectives**
 <h4> The objectives of this project are:</h4>
@@ -56,7 +56,7 @@
 :shipit:  LALONGISIP, Darlyne Grace M.
 ##
 ### 💬 Conclusion
-  We believe that **PROJECT “EATWELL”** will be a great help to improve nutritional intake, enhanced weight management, simplified meal planning, increased awareness of dietary habits,  greater adherence to dietary goals, improved health outcomes and enhanced user experience. 
+       We believe that **PROJECT “EATWELL”** will be a great help to improve nutritional intake, enhanced weight management, simplified meal planning, increased awareness of dietary habits,  greater adherence to dietary goals, improved health outcomes and enhanced user experience. 
 ##
 <h3 align="center">
 It is a pleasure to have the opportunity to share our project ideas with you. We are hopeful that our proposal will meet your expectations, and we thank you for considering it. <br>
