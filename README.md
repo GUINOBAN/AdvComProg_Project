@@ -50,10 +50,10 @@
 ### 👥 **Team**
 <h4>The following individuals will be working on this project:</h4> 
 
-🐔 BARICAN, John Andrei A.  
-🐻 GENIL, Gemma Rose L.  
-🐷 GUINOBAN, Glenn M.  
-:shipit: LALONGISIP, Darlyne Grace M.
+🐔  BARICAN, John Andrei A.  
+🐻  GENIL, Gemma Rose L.  
+🐷  GUINOBAN, Glenn M.  
+:shipit:  LALONGISIP, Darlyne Grace M.
 ##
 ### 💬 Conclusion
   We believe that PROJECT “EATWELL” will be a great help to improve nutritional intake, enhanced weight management, simplified meal planning, increased awareness of dietary habits,  greater adherence to dietary goals, improved health outcomes and enhanced user experience. 
