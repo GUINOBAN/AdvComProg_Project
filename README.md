@@ -1,6 +1,4 @@
-<div align="center">
-<img src="EATWELL.gif" width="500" height="75"><br>
-<img src="EATWELL.png" width="867" height="130"></div>
+<div align="center"> <img src="EATWELL.gif" width="500" height="75"> <br> </div>
 
 ______________________________________________________________________
 ### 📄 **Introduction** 
