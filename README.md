@@ -39,5 +39,5 @@ We believe that PROJECT “EATWELL” will be a great help to improve nutritiona
 <h3 align="center">
 It is a pleasure to have the opportunity to share our project ideas with you. We are hopeful that our proposal will meet your expectations, and we thank you for considering it.
   <br><br>
-<img src="eatwell.png" width="160" height="60">
+<img src="THANK YOU!.gif" width="167" height="25"><br>
 </h3>
