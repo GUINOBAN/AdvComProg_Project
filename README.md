@@ -20,12 +20,28 @@ The scope of this project includes:
 [![SDG 3](https://img.shields.io/badge/Goal%203-Sustainable%20Development%20Goal-green)](https://sdgs.un.org/goals/goal3)
 ##
 ### 🔑 Key Features
-The following are the key features of the project:  
- 💡 recipe suggestion and nutritional information  
-📈 calorie tracking and goal setting  
-📝 meal planning and grocery list creation  
- 💧 water intake tracking  
-📖 food diary and progress tracking
+<h4>The following are the key features of the project:<h4>
+<details>
+  <summary><h4> 💡 recipe suggestion and nutritional information </h4></summary>
+  ◻ The software can suggest recipes based on the user's dietary preferences and provide nutritional information for each recipe.
+</details>
+<details>
+  <summary><h4>📈 calorie tracking and goal setting </h4></summary>
+  ◻ The software can track the user's calorie intake and help them set daily calorie goals based on their weight loss or weight management goals.
+</details>
+<details>
+  <summary><h4>📝 meal planning and grocery list creation </h4></summary>
+  ◻ The software can help users plan their meals for the week and create a grocery list based on the recipes they choose.
+</details>
+<details>
+  <summary><h4> 💧 water intake tracking </h4></summary>
+  ◻ The software can track the user's water intake and remind them to drink water throughout the day.
+</details>
+<details>
+  <summary><h4>📖 food diary and progress tracking </h4></summary>
+  ◻ The software can provide users with a food diary to track their meals and progress towards their health goals. Users can also set reminders to log their meals and monitor their progress.
+</details>
+
 ##
 ### 👥 Team
 The following individuals will be working on this project:  
