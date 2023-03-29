@@ -1,5 +1,5 @@
 <h1 align="center">Embrace A Tasty, Well-balanced Eating Lifestyle <br>
-  <b><code> E A T W E L L </code> <br></b>
+  <b><code>-EATWELL-</code> <br></b>
   <i> A Nutritional Guide Software</h1></i>
 
 ### 📄 Introduction 
