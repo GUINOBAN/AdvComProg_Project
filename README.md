@@ -1,7 +1,6 @@
 <div align="center">
 <img src="EATWELL.gif" width="500" height="75"><br>
-<img src="EATWELL.png" width="500" height="75"><br>
-<img src="EATWELL-2.png" width="500" height="75"></div>
+<img src="EATWELL.png" width="1000" height="150"></div>
 
 ______________________________________________________________________
 ### 📄 **Introduction** 
