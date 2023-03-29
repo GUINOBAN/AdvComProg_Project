@@ -7,7 +7,7 @@
   This is a project proposal for **CS121 - Advanced Computer Programming**, which is being developed by **THE AVENGERS** from **CS-1202**. The purpose of this project is to create a personalized nutrition and meal planning software that provides users with customized nutrition plans and meal recommendations based on their individual health goals and dietary preferences. The goal of the software is to help users make healthier food choices and improve their overall health and well-being. In this proposal, we will provide an overview of the project, including its objectives, scope, and keyfeatures.
 ##
 ### 🔗 **Objectives**
-<h4>The objectives of this project are:</h4>
+<h4> The objectives of this project are:</h4>
 
 🔴 To suggest recipes based on dietary preferences and provide nutritional information for each recipe.  
 🟡 To track calorie intake and help users set daily calorie goals based on weight loss or weight management goals.  
@@ -24,7 +24,7 @@
 
 ##
 ### 🔑 **Key Features**
-<h4>The following are the key features of the project:<h4>
+<h4> The following are the key features of the project:<h4>
 <details>
   <summary><h4> 💡 Recipe Suggestion and Nutritional Information </h4></summary>
        ◻  The software can suggest recipes based on the user's dietary preferences and provide nutritional information for each recipe.
@@ -48,7 +48,7 @@
 
 ##
 ### 👥 **Team**
-<h4>The following individuals will be working on this project:</h4> 
+<h4> The following individuals will be working on this project:</h4> 
 
 🐔  BARICAN, John Andrei A.  
 🐻  GENIL, Gemma Rose L.  
