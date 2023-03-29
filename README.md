@@ -1,4 +1,4 @@
-<div align="center"> <img src="EATWELL.gif" width="500" height="75"> <br> </div>
+<div align="center"> <img src="EATWELL.gif" width="467" height="175"> <br> </div>
 
 ______________________________________________________________________
 ### 📄 **Introduction** 
