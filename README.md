@@ -16,7 +16,7 @@ The objectives of this project are:
 ##
 ### 🔎 Scope  
 The scope of this project includes:  
-📌 Sustainable Development Goal 3 (SDG 3 or Global Goal 3), regarding "Good Health and Well-being", is one of the 17 Sustainable Development Goals established by the United Nations in 2015. The official wording is: "To ensure healthy lives and promote well-being for all at all ages." 
+📌 Sustainable Development Goal 3 is one of the 17 Sustainable Development Goals established by the United Nations in 2015. The official wording is: <i> "To ensure healthy lives and promote well-being for all at all ages." </i> The Sustainable Development Goal (SDG) that is addressed by creating a personalized nutrition and meal planning software is <b> SDG 3: Good Health and Well-being </b>. The personalized nutrition and meal planning software can help individuals make healthier food choices and improve their overall health and well-being. Additionally, the software can be used by healthcare professionals to create customized nutrition plans for their clients and patients, thereby promoting good health and well-being.
 ##
 ### 🔑 Key Features
 The following are the key features of the project:  
