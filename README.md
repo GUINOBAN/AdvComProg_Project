@@ -56,10 +56,11 @@
 :shipit:  LALONGISIP, Darlyne Grace M.
 ##
 ### 💬 Conclusion
-  We believe that PROJECT “EATWELL” will be a great help to improve nutritional intake, enhanced weight management, simplified meal planning, increased awareness of dietary habits,  greater adherence to dietary goals, improved health outcomes and enhanced user experience. 
+  We believe that **PROJECT “EATWELL”** will be a great help to improve nutritional intake, enhanced weight management, simplified meal planning, increased awareness of dietary habits,  greater adherence to dietary goals, improved health outcomes and enhanced user experience. 
 ##
 <h3 align="center">
-It is a pleasure to have the opportunity to share our project ideas with you. We are hopeful that our proposal will meet your expectations, and we thank you for considering it.
+It is a pleasure to have the opportunity to share our project ideas with you. We are hopeful that our proposal will meet your expectations, and we thank you for considering it.  
+  EATWELL😚
   <br><br>
 <img src="THANK YOU!.gif" width="334" height="50"><br>
 </h3>
