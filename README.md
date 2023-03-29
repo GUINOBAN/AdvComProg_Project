@@ -25,7 +25,7 @@
 <h4>The following are the key features of the project:<h4>
 <details>
   <summary><h4> 💡 recipe suggestion and nutritional information </h4></summary>
-  ◻ The software can suggest recipes based on the user's dietary preferences and provide nutritional information for each recipe.
+        ◻ The software can suggest recipes based on the user's dietary preferences and provide nutritional information for each recipe.
 </details>
 <details>
   <summary><h4>📈 calorie tracking and goal setting </h4></summary>
