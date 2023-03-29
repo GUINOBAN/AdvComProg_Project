@@ -1,7 +1,7 @@
-<h1 align="center">
+<div align="center">
 <img src="EATWELL.gif" width="500" height="75"><br>
 <img src="EATWELL.png" width="500" height="75"><br>
-  <i>A Nutritional Guide Software </i></h1>
+<img src="EATWELL-2.png" width="500" height="75"><br></div>
 
 
 ### 📄 **Introduction** 
@@ -15,7 +15,7 @@ ______________________________________________________________________
 🟢 To assist users in planning their meals for the week and creating a grocery list based on chosen recipes.  
 🔵 To track water intake and remind users to drink water throughout the day.  
 🟣 To provide users with a food diary to track meals and progress towards health goals, including setting reminders for meal logging and progress monitoring.
-##
+______________________________________________________________________
 ### 🔎 **Scope** 
 <h4>The scope of this project includes:</h4>
 
@@ -23,7 +23,7 @@ ______________________________________________________________________
 
 📌 Sustainable Development Goal 3 is one of the 17 Sustainable Development Goals established by the United Nations in 2015. The official wording is: <i> "To ensure healthy lives and promote well-being for all at all ages." </i> The Sustainable Development Goal (SDG) that is addressed by creating a personalized nutrition and meal planning software is <b> SDG 3: Good Health and Well-being </b>. The personalized nutrition and meal planning software can help individuals make healthier food choices and improve their overall health and well-being. Additionally, the software can be used by healthcare professionals to create customized nutrition plans for their clients and patients, thereby promoting good health and well-being.
 
-##
+______________________________________________________________________
 ### 🔑 **Key Features**
 <h4> The following are the key features of the project:<h4>
 <details>
@@ -47,7 +47,7 @@ ______________________________________________________________________
        ◻  The software can provide users with a food diary to track their meals and progress towards their health goals. Users can also set reminders to log their meals and monitor their progress.
 </details>
 
-##
+______________________________________________________________________
 ### 👥 **Team**
 <h4> The following individuals will be working on this project:</h4>
   
@@ -55,10 +55,10 @@ ______________________________________________________________________
 🐻  GENIL, Gemma Rose L.  
 🐷  GUINOBAN, Glenn M.  
 :shipit:  LALONGISIP, Darlyne Grace M.
-##
+______________________________________________________________________
 ### 💬 Conclusion
        We believe that **PROJECT “EATWELL”** will be a great help to improve nutritional intake, enhanced weight management, simplified meal planning, increased awareness of dietary habits,  greater adherence to dietary goals, improved health outcomes and enhanced user experience. 
-##
+______________________________________________________________________
 <h3 align="center">
 It is a pleasure to have the opportunity to share our project ideas with you. We are hopeful that our proposal will meet your expectations, and we thank you for considering it. <br>
   EATWELL😋
