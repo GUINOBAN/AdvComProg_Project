@@ -3,6 +3,7 @@
 <img src="EATWELL.png" width="500" height="75"><br>
   <i>A Nutritional Guide Software </i></h1>
 
+
 ### 📄 **Introduction** 
       This is a project proposal for **CS121 - Advanced Computer Programming**, which is being developed by **THE AVENGERS** from **CS-1202**. The purpose of this project is to create a personalized nutrition and meal planning software that provides users with customized nutrition plans and meal recommendations based on their individual health goals and dietary preferences. The goal of the software is to help users make healthier food choices and improve their overall health and well-being. In this proposal, we will provide an overview of the project, including its objectives, scope, and key features.
 ##
@@ -49,7 +50,6 @@
 ##
 ### 👥 **Team**
 <h4> The following individuals will be working on this project:</h4>
-<h4> 🅰 THE AVENGERS</h4> 
   
 🐔  BARICAN, John Andrei A.  
 🐻  GENIL, Gemma Rose L.  
