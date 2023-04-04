@@ -1,7 +1,7 @@
 <div align="center"> <img src="EATWELL.gif" width="467" height="175"> <br> </div>
 
 ______________________________________________________________________
-### Table of Contents
+<h3><b>🗂 Table of Contents</b></h3>
 
 <ul>
   <li><a href="#introduction">Introduction</a></li>
@@ -45,19 +45,31 @@ ______________________________________________________________________
 </details>
 <details>
   <summary><h4>📈 Calorie Tracking and Goal Setting </h4></summary>
-       ◻  The software can track the user's calorie intake and help them set daily calorie goals based on their weight loss or weight management goals.
+  
+            ◻ The software can track the user's calorie intake and help them set daily calorie goals based on their weight loss or weight management goals.  
+            ◻ This feature will allow the user to track their daily caloric intake to monitor their chosen diet status, whether it is a caloric deficit,  caloric surplus, or caloric maintenance. The user may change the goal setting after a specific option is completed to maintain a good nutritional habit.
+
 </details>
 <details>
   <summary><h4>📝 Meal Planning and Grocery List Creation </h4></summary>
-       ◻  The software can help users plan their meals for the week and create a grocery list based on the recipes they choose.
+  
+            ◻ The software can help users plan their meals for the week and create a grocery list based on the recipes they choose.  
+            ◻ This feature allows user to create their daily or weekly meal plan. Once a meal plan is set, a series of grocery list will be provided to each meal or recipe that they set.
+
 </details>
 <details>
   <summary><h4> 💧 Water Intake Tracking </h4></summary>
-       ◻  The software can track the user's water intake and remind them to drink water throughout the day.
+  
+            ◻ The software can track the user's water intake and remind them to drink water throughout the day.  
+            ◻ This feature allows user to track their daily water intake. Once the daily quota was met, a promt will be displayed as well as a short info about excessive water intake. Otherwise, a reminder will prompt to complete the daily water intake.
+
 </details>
 <details>
   <summary><h4>📖 Food Diary and Progress Tracking </h4></summary>
-       ◻  The software can provide users with a food diary to track their meals and progress towards their health goals. Users can also set reminders to log their meals and monitor their progress.
+  
+            ◻ The software can provide users with a food diary to track their meals and progress towards their health goals. Users can also set reminders to log their meals and monitor their progress.  
+            ◻ This feature will allow users to note their food intake. A progress display will pop-up that is based on the user's chosen nutritional or dietary goal.
+
 </details>
 
 ______________________________________________________________________
@@ -78,5 +90,5 @@ It is a pleasure to have the opportunity to share our project ideas with you. We
   EATWELL😋
   <br><br>
 <img src="THANK YOU!.gif" width="334" height="50"><br>
-<h4 align="center">The AVENGERS | CS-1202</h4>
+<h4 align="center">THE AVENGERS | CS-1202</h4>
 </h3>
